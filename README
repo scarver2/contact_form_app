@@ -1,4 +1,6 @@
-Contactformapp
-========================
+Contact Form
+--------------------------------
 
 Based on http://matharvard.ca/posts/2011/aug/22/contact-form-in-rails-3/
+
+Modernized for Rails 3.2 using ActiveAttr.
