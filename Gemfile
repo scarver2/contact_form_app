@@ -33,6 +33,7 @@ group :development do
   gem 'i18n-tasks'
   gem 'letter_opener'
   gem 'meta_request'
+  gem 'quiet_assets'
   gem 'railroady'
   gem 'ruby_parser'
   gem 'rails-footnotes'
