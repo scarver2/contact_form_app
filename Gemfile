@@ -4,9 +4,9 @@ gem 'active_attr'
 gem 'sqlite3'
 
 group :assets do
-  gem 'sass-rails', '~> 3.2'
-  gem 'coffee-rails', '~> 3.2'
-  gem 'uglifier', '>= 1.0.3'
+  gem 'sass-rails' # , '~> 3.2'
+  gem 'coffee-rails' # , '~> 3.2'
+  gem 'uglifier' # , '>= 1.0.3'
 end
 
 group :development, :test do
