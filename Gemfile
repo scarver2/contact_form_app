@@ -28,8 +28,12 @@ group :development do
   gem 'better_errors'
   gem 'binding_of_caller'
   gem 'bullet'
+  gem 'guard', '~> 2.7.1'
+  gem 'guard-bundler', require: false
+  # gem 'guard-jasmine', require: false
+  gem 'guard-rails', require: false
   gem 'guard-rspec', require: false
-  gem 'guard-spork'
+  gem 'guard-spork', require: false
   gem 'i18n-tasks'
   gem 'letter_opener'
   gem 'meta_request'
