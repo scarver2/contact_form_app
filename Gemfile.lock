@@ -222,7 +222,7 @@ GEM
     rspec-html-matchers (0.7.0)
       nokogiri (~> 1)
       rspec (~> 3)
-    rspec-mocks (3.3.0)
+    rspec-mocks (3.3.1)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.3.0)
     rspec-rails (3.3.2)
@@ -276,7 +276,7 @@ GEM
     timecop (0.7.4)
     timers (4.0.1)
       hitimes
-    tins (1.5.2)
+    tins (1.5.4)
     treetop (1.4.15)
       polyglot
       polyglot (>= 0.3.1)
