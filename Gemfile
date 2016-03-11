@@ -12,7 +12,7 @@ end
 group :development, :test do
   gem 'awesome_print'
   gem 'chronic'
-  gem 'faker', github: 'statique/faker'
+  gem 'faker', github: 'scarver2/faker'
   gem 'haml-rails'
   gem 'hirb'
   gem 'interactive_editor'
