@@ -57,6 +57,7 @@ group :test do
   gem 'shoulda-matchers'
   gem 'simplecov', require: false
   gem 'terminal-notifier-guard'
+  gem 'test-unit', '~> 3.0'
   gem 'test_after_commit'
   gem 'timecop'
   gem 'valid_attribute'
